@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "216659789942",
+    "firebase_url": "https://eco-green-test-default-rtdb.firebaseio.com",
+    "project_id": "eco-green-test",
+    "storage_bucket": "eco-green-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216659789942:android:2c7f1bb89c8ff7932b3757",
+        "android_client_info": {
+          "package_name": "com.example.netflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3EvRr9mDJZBEiJ17wQ8yxpG315vWbpfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

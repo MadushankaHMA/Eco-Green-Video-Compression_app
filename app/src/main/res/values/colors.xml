@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="forestGreen">#228B22</color>
+    <color name="grassGreen">#7CFC00</color>
+    <color name="green">#008000</color>
+    <color name="hunterGreen">#355E3B</color>
+    <color name="jade">#00A36C</color>
+    <color name="jungleGreen">#2AAA8A</color>
+    <color name="kellyGreen">#4CBB17</color>
+    <color name="lightGreen">#90EE90</color>
+    <color name="limeGreen">#32CD32</color>
+    <color name="lincolnGreen">#478778</color>
+    <color name="malachite">#0BDA51</color>
+    <color name="mintGreen">#98FB98</color>
+    <color name="mossGreen">#8A9A5B</color>
+    <color name="mossGreen2">#1A9A5B</color>
+</resources>

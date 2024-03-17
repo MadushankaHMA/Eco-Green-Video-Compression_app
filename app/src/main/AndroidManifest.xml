@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ecogreen">
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/green_logo"
+        android:label="Eco Green"
+        android:roundIcon="@drawable/green_logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.ecogreen.MainActivity"/>
+        <activity android:name="com.example.ecogreen.LoginActivity"/>
+        <activity android:name="com.example.ecogreen.RegisterActivity"/>
+        <activity android:name="com.example.ecogreen.AboutActivity"/>
+        <activity android:name="com.example.ecogreen.FeedbackActivity"/>
+        <activity android:name="com.example.ecogreen.UploadMovie"/>
+        <activity android:name="com.example.ecogreen.Fullscreen"
+            android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name="com.example.ecogreen.WelcomeActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
